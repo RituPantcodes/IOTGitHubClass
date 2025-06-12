@@ -1,2 +1,2 @@
-Hello my name is Ritu Pant
-I study in Presidential
+Hello My name is Ritu Pant.
+I'm studying in Presidential right now.
